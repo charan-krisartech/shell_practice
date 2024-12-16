@@ -1,1 +1,3 @@
-# shell_practice
+# Shell Practice
+
+Shell practice week programs reside here
